@@ -1,0 +1,5 @@
+pandas
+torch
+opencv-python
+numpy
+transformers
